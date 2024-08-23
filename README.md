@@ -1,0 +1,2 @@
+# MajorClaimerBot
+MajorClaimerBot App AutoClicker
