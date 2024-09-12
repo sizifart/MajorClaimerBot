@@ -5,18 +5,18 @@
 # 🔥🔥 Use PYTHON 3.10 🔥🔥
 
 ## Features  
-|                         Feature                          | Supported |
+| Feature                                                  | Supported |
 |:--------------------------------------------------------:|:---------:|
-|                      Multithreading                      |     ✅     |
-|                 Proxy binding to session                 |     ✅     |
-|                      Auto Referral                       |     ✅     |
-|                    Auto Claim Task                       |     ✅     |
-|                     Auto Roulette                        |     ✅     |
-| Auto Hold Coins  					                       |     ✅     |
-| Auto Swipe Coins                   				       |     ✅     |
-| Auto Puzzle Pavel                        				   |     ✅     |
-|                  Auto Daily Streak                       |     ✅     |
-|              Support for pyrogram .session               |     ✅     |
+| Multithreading                                           |     ✅     |
+| Proxy binding to session                                 |     ✅     |
+| Auto Referral                                            |     ✅     |
+| Auto Claim Task                                          |     ✅     |
+| Auto Roulette                                            |     ✅     |
+| Auto Hold Coins  					                          |     ✅     |
+| Auto Swipe Coins                   				           |     ✅     |
+| Auto Puzzle Pavel                                        |     ✅     |
+| Auto Daily Streak                                        |     ✅     |
+| Support for pyrogram .session                            |     ✅     |
 
 
 ## [Settings](https://github.com/sizifart/MajorClaimerBot/blob/main/.env-example/)
