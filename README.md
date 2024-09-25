@@ -5,18 +5,19 @@
 # 🔥🔥 Use PYTHON 3.10 🔥🔥
 
 ## Features  
-| Feature                                                  | Supported |
+|                         Feature                          | Supported |
 |:--------------------------------------------------------:|:---------:|
-| Multithreading                                           |     ✅     |
-| Proxy binding to session                                 |     ✅     |
-| Auto Referral                                            |     ✅     |
-| Auto Claim Task                                          |     ✅     |
-| Auto Roulette                                            |     ✅     |
-| Auto Hold Coins  					                          |     ✅     |
-| Auto Swipe Coins                   				           |     ✅     |
-| Auto Puzzle Pavel                                        |     ✅     |
-| Auto Daily Streak                                        |     ✅     |
-| Support for pyrogram .session                            |     ✅     |
+|                      Multithreading                      |     ✅     |
+|                 Proxy binding to session                 |     ✅     |
+|                      Auto Referral                       |     ✅     |
+|                    Auto Claim Task                       |     ✅     |
+|                     Auto Roulette                        |     ✅     |
+| Auto Hold Coins  					                       |     ✅     |
+| Auto Swipe Coins                   				       |     ✅     |
+| Auto Puzzle Pavel                        				   |     ✅     |
+|                  Auto Daily Streak                       |     ✅     |
+|              Support for pyrogram .session               |     ✅     |
+|        Telethon version support (in telethon branch)     |     ✅     |
 
 
 ## [Settings](https://github.com/sizifart/MajorClaimerBot/blob/main/.env-example/)
@@ -32,7 +33,6 @@
 | **FAKE_USER AGENT** |                   Use a fake user agent for sessions (True / False)                    |
 | **SLEEP_TIME**          |                   Delay before the next lap (e.g. [1800, 3600])                         |
 | **USE_PROXY_FROM_FILE** |      Whether to use a proxy from the `bot/config/proxies.txt` file (True / False)      |
-
 
 
 ## Prerequisites
